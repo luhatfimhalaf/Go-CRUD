@@ -1,0 +1,6 @@
+guide of setup
+- views folder for shows the website views
+- models folder for communicates with database
+- entities folder for structure in database (overview of tables in the database)
+- controllers for logic code
+- config for communicate with database
